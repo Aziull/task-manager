@@ -22,7 +22,3 @@ const props = defineProps({
     }
 })
 </script>
-
-<style scoped>
-/* додаткові стилі для компонента */
-</style>
