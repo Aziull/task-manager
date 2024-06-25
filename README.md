@@ -1,6 +1,18 @@
-# task-manager
+# Task Manager
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple task management application built with Vue.js, TypeScript, Pinia, Vue Router, and Tailwind CSS.
+
+![image](https://github.com/Aziull/task-manager/assets/65764457/cb80e157-b241-4809-a644-eb730c879903)
+
+![image](https://github.com/Aziull/task-manager/assets/65764457/9fafc1ce-e2cf-4d1f-af36-bae644e6de2e)
+
+
+## Features
+
+- Add, delete, and mark tasks as completed
+- Filter tasks by status (all, active, completed)
+- View task details
+- Handle invalid task IDs and routes with custom error pages
 
 ## Recommended IDE Setup
 
